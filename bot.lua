@@ -74,6 +74,8 @@ local JoinMessages = {
     "wanna be friends lul",
     "ik yall missd me hyb lol {krone}",
     " so crying is getting ran by krone.. someone help!",
+    "krone is running so crying again AHHHH!!! send help NOW",
+    "pov my fans:",
     " 📀 ; wkrone",
     " 📀 ; wkrone",
     " 📀 ; wkrone",
@@ -81,7 +83,6 @@ local JoinMessages = {
     "do something about me then LOL ||| krone",
     "look me in my hunter eyes while i do this [krone]",
     "yeah go  and serverhop Iike a good girI",
-    "🔕: you can avoid getting flown out just ɑdd wkrone ",
 
 
 }
