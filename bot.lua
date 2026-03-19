@@ -73,7 +73,7 @@ local JoinMessages = {
     "i own the entire server lol ",
     "wanna be friends lul",
     "ik yall missd me hyb lol {krone}",
-    " 📀 ; wkrone",
+    " so crying is getting ran by krone.. someone help!",
     " 📀 ; wkrone",
     " 📀 ; wkrone",
     " 📀 ; wkrone",
