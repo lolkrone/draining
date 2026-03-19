@@ -1,11 +1,33 @@
--- REAUTOEXEC
 
-if queue_on_teleport then
-    queue_on_teleport(game:HttpGet("https://pastebin.com/raw/806KNdB0"))
-elseif syn and syn.queue_on_teleport then
-    syn.queue_on_teleport(game:HttpGet("https://pastebin.com/raw/806KNdB0"))
+-- REAUTOEXEC 
+
+local urls = {
+    "https://raw.githubusercontent.com/lolkrone/draining/main/bot.lua", -- main
+    "https://pastebin.com/raw/806KNdB0" -- backup
+}
+
+local function getWorkingUrl()
+    for _, url in ipairs(urls) do
+        local success, result = pcall(function()
+            return game:HttpGet(url)
+        end)
+        if success and result and #result > 0 then
+            return url
+        end
+    end
+    return nil
 end
 
+local workingUrl = getWorkingUrl()
+
+if workingUrl then
+    local queue = queue_on_teleport or (syn and syn.queue_on_teleport)
+    if queue then
+        queue('loadstring(game:HttpGet("'..workingUrl..'"))()')
+    end
+else
+    warn("No working script URL found")
+end
 
 -- CONFIRMATION
 print("lol the script works g")
@@ -45,17 +67,21 @@ track:Play()
 ------------------------------------------------
 
 local JoinMessages = {
-    "sucks to see ur game die out like this",
-    "there goes ur game hahahahhah ur so mad | krone",
-    "i know yall hate to see me coming HHAHAH | krone",
-    "so crying VS krone WHO WINS idk i think krone but idk..",
+    "there goes ur game hahahahhah ur so mad : krone",
+    "i know yall hate to see me coming HHAHAH ; krone",
+    "SCRN VS krone? lol",
     "i own the entire server lol ",
     "wanna be friends lul",
-    "ik yall missd me hyb lol",
+    "ik yall missd me hyb lol {krone}",
     " 📀 ; wkrone",
     " 📀 ; wkrone",
     " 📀 ; wkrone",
     " 📀 ; wkrone",
+    "yall ready or nah || krone",
+    "do something about me then LOL ||| krone",
+    "look me in my hunter eyes while i do this [krone]",
+    "yeah go  and serverhop Iike a good girI",
+    "🔕: you can avoid getting flown out just ɑdd wkrone ",
 
 
 }
@@ -87,8 +113,9 @@ end)
 ------------------------------------------------
 
 local AvoidUserIds = {
-    123456789,987654321,10253861328,10253908110,10283443701,
-    10395776007,2561094270,2427285,10214659178
+    10395766369,987654321,10253861328,10253908110,10283443701,
+    10395776007,2561094270,2427285,10214659178,2561094270
+    
 }
 
 local function isAvoided(player)
@@ -286,7 +313,7 @@ local function serverHop()
 end
 
 task.spawn(function()
-    while task.wait(100) do serverHop() end
+    while task.wait(60) do serverHop() end
 end)
 
 -- SUCCESS MESSAGE
