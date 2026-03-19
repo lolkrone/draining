@@ -83,6 +83,7 @@ local JoinMessages = {
     "do something about me then LOL ||| krone",
     "look me in my hunter eyes while i do this [krone]",
     "yeah go  and serverhop Iike a good girI",
+    "if a guy named TONY says i "beefed him" i didnt hes a larp and lacks com skills",
 
 
 }
