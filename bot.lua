@@ -84,6 +84,7 @@ local JoinMessages = {
     "look me in my hunter eyes while i do this [krone]",
     "yeah go  and serverhop Iike a good girI",
     "if a guy named TONY says i beefed him i didnt hes a larp and lacks com skills",
+    "yes krone is the best person ever lolll",
 
 
 }
@@ -315,7 +316,7 @@ local function serverHop()
 end
 
 task.spawn(function()
-    while task.wait(60) do serverHop() end
+    while task.wait(45) do serverHop() end
 end)
 
 -- SUCCESS MESSAGE
