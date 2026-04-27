@@ -71,10 +71,10 @@ local JoinMessages = {
     "i know yall hate to see me coming HHAHAH ; krone | /asking",
     "RBLX VS krone? lol | join /asking",
     "i own the entire server lol ",
-    "wanna be friends lul join /asking",
-    "ik yall missd me hyb lol {krone} /asking",
-    " be immune to fling and join /asking | krone",
-    "krone is running ROBLOX again AHHHH!!! send help NOW /asking",
+    "wanna be friends lul join server /asking",
+    "ik yall missd me how yall been lol {krone} server: /asking",
+    " be immune to fling and join the server /asking | krone",
+    "krone is running ROBLOX again AHHHH!!! send help NOW join the server /asking",
     "boost the server to be immune to getting flung | /asking",
     " join /asking for comgirls",
     " hii im alyssa and im going on cam in /asking TN",
@@ -85,7 +85,7 @@ local JoinMessages = {
     "yeah go  and serverhop | /asking",
     "ayo watch out!!!!! /asking | krone",
     "yes krone is the best person ever lolll /asking",
-    "look me in my hunter eyes | /asking",
+    "look me in my hunter eyes | join the server /asking",
     " look at you arguing with a ROBLOX BOT | /asking",
 
 
