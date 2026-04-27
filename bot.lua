@@ -85,6 +85,8 @@ local JoinMessages = {
     "yeah go  and serverhop | /asking",
     "ayo watch out!!!!! /asking | krone",
     "yes krone is the best person ever lolll /asking",
+    "look me in my hunter eyes | /asking",
+    " look at you arguing with a ROBLOX BOT | /asking",
 
 
 }
