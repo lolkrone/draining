@@ -67,27 +67,19 @@ track:Play()
 ------------------------------------------------
 
 local JoinMessages = {
-    "there goes ur game hahahahhah ur so mad | krone | /asking",
-    "i know yall hate to see me coming HHAHAH ; krone | /asking",
-    "RBLX VS krone? lol | join /asking",
+    "there goes ur game hahahahhah ur so mad | krone",
+    "RBLX vs krone??? LOL | krone",
+    "sucks to see ur game die out like this | krone was here",
+    "there goes ur game hahahahhah ur so mad | krone",
+    "i know yall hate to see me coming HHAHAH | krone",
+    "RBLX VS krone WHO WINS idk i think krone but idk..",
     "i own the entire server lol ",
-    "wanna be friends lul join server /asking",
-    "ik yall missd me how yall been lol {krone} server: /asking",
-    " be immune to fling and join the server /asking | krone",
-    "krone is running ROBLOX again AHHHH!!! send help NOW join the server /asking",
-    "boost the server to be immune to getting flung | /asking",
-    " join /asking for comgir7z",
-    " krone owns you lol /asking",
-    "yall ready or nah | krone | /asking",
-    "do something about me then LOL ||| krone",
-    "look me in my hunter eyes while i do this [krone]",
-    "yeah go  and serverhop | /asking",
-    "ayo watch out!!!!! /asking | krone",
-    "yes krone is the best person ever lolll /asking",
-    "look me in my hunter eyes | join the server /asking",
-    " look at you arguing with a ROBLOX BOT | /asking",
-    "im not cure im not brown | krone",
-    "no fling? no problem i do this for love of the game | gg/asking | krone",
+    "wanna be friends lul",
+    "ik yall missed me how yall been | krone",
+    " 📀 ; wkrone",
+    " 📀 ; wkrone",
+    " 📀 ; wkrone",
+    " 📀 ; wkrone"
 
 
 }
