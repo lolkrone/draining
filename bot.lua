@@ -80,7 +80,7 @@ local JoinMessages = {
     " 📀 ; wkrone",
     " 📀 ; wkrone",
     " 📀 ; wkrone"
-    " 📀 ; wkrone [immune to getting flung]",
+    " 📀 ; wkrone immune to getting flung",
     "i know im a loser lool | krone",
     "become krone's friend and stop getting flung!!!",
 
