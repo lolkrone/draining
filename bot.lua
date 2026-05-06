@@ -83,6 +83,7 @@ local JoinMessages = {
     " 📀 ; wkrone immune to getting flung",
     "i know im a loser lool | krone",
     "become krone's friend and stop getting flung!!!",
+    "some of yall try arguing wit me? im a ROBLOX BOT..",
 
 
 }
