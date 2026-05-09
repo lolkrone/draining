@@ -84,7 +84,9 @@ local JoinMessages = {
     "i know im a loser lool | krone",
     "become krone's friend and stop getting flung!!!",
     "some of yall try arguing wit me? im a ROBLOX BOT..",
-
+    " #UnbanKrone - free krone he aint even do nothing!!",
+      " #UnbanKrone - free krone he aint even do nothing!!",
+      " #UnbanKrone - free krone he aint even do nothing!!",
 
 }
 
