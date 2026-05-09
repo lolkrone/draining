@@ -316,7 +316,7 @@ local function serverHop()
 end
 
 task.spawn(function()
-    while task.wait(120) do serverHop() end
+    while task.wait(60) do serverHop() end
 end)
 
 -- SUCCESS MESSAGE
