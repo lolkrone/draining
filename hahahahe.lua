@@ -65,13 +65,9 @@ track:Play()
 ------------------------------------------------
 
 local JoinMessages = {
-    "there goes ur game hahahahhah ur so mad /hassle | krone",
-    "RBLX vs krone??? LOL | krone | /hassle",
-    "sucks to see ur game die out like this | krone was here",
     "hii im alyssa im on stage rn at /hassle",
     "immune to getting flung /hassle | krone",
     "LOL get trolled come to /hassle | krone",
-    "come get a whitelist at /hassle | krone",
     "cam stage at /hassle tn | krone",
     "join /hassle come get a whitelist | krone",
     "krone was here hehe /hassle",
@@ -80,6 +76,10 @@ local JoinMessages = {
     "Stay with the RE-UPLOADS | /hassle",
     "Game RE-UPLOADS | /hassle",
     "So Cry RE-UPLOADS | /hassle",
+    "Game Reuploads in server /hassle",
+    "/hassle GAME REUPLOADS",
+    "Auto-Reuploads /hassle",
+    "
 
 }
 
