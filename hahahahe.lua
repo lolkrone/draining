@@ -76,6 +76,10 @@ local JoinMessages = {
     "join /hassle come get a whitelist | krone",
     "krone was here hehe /hassle",
     "comgirl on stage /hassle",
+    " DAILY GAME RE-UPLOADS | /hassle",
+    "Stay with the RE-UPLOADS | /hassle",
+    "Game RE-UPLOADS | /hassle",
+    "So Cry RE-UPLOADS | /hassle",
 
 }
 
