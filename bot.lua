@@ -70,11 +70,12 @@ local JoinMessages = {
     "there goes ur game hahahahhah ur so mad /hassle | krone",
     "RBLX vs krone??? LOL | krone | /hassle",
     "sucks to see ur game die out like this | krone was here",
-    "hii im alyssa im on cam rn at /hassle",
+    "hii im alyssa im on stage rn at /hassle",
     "immune to getting flung /hassle | krone",
     "LOL get trolled come to /hassle | krone",
     "come get a whitelist at /hassle | krone",
     "cam stage at /hassle tn | krone",
+    "join /hassle come get a whitelist | krone",
 
 }
 
