@@ -1,8 +1,7 @@
 -- REAUTOEXEC 
 
 local urls = {
-    "https://raw.githubusercontent.com/lolkrone/draining/main/bot.lua", -- main
-    "https://pastebin.com/raw/806KNdB0" -- backup
+    "https://raw.githubusercontent.com/lolkrone/draining/hahahahe/bot.lua", -- main
 }
 
 local function getWorkingUrl()
