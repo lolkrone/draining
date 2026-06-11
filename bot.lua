@@ -67,26 +67,14 @@ track:Play()
 ------------------------------------------------
 
 local JoinMessages = {
-    "there goes ur game hahahahhah ur so mad | krone",
-    "RBLX vs krone??? LOL | krone",
+    "there goes ur game hahahahhah ur so mad /hassle | krone",
+    "RBLX vs krone??? LOL | krone | /hassle",
     "sucks to see ur game die out like this | krone was here",
-    "there goes ur game hahahahhah ur so mad | krone",
-    "i know yall hate to see me coming HHAHAH | krone",
-    "RBLX VS krone WHO WINS idk i think krone but idk..",
-    "i own the entire server lol ",
-    "wanna be friends lul",
-    "ik yall missed me how yall been | krone",
-    " 📀 ; kr6ne",
-    " 📀 ; kr6ne",
-    " 📀 ; kr6ne",
-    " 📀 ; kr6ne",
-    " 📀 ; kr6ne <-> immune to getting flung",
-    "i know im a loser lool | krone",
-    "become krone's friend and stop getting flung!!!",
-    "some of yall try arguing wit me? im a ROBLOX BOT..",
-    " #UnbanKrone - free krone he aint even do nothing!!",
-      " #UnbanKrone - free krone he aint even do nothing!!",
-      " #UnbanKrone - free krone he aint even do nothing!!",
+    "hii im alyssa im on cam rn at /hassle",
+    "immune to getting flung /hassle | krone",
+    "LOL get trolled come to /hassle | krone",
+    "come get a whitelist at /hassle | krone",
+    "cam stage at /hassle tn | krone",
 
 }
 
