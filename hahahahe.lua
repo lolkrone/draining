@@ -76,6 +76,7 @@ local JoinMessages = {
     "cam stage at /hassle tn | krone",
     "join /hassle come get a whitelist | krone",
     "krone was here hehe /hassle",
+    "comgirl on stage /hassle",
 
 }
 
@@ -190,7 +191,7 @@ local function serverHop()
 end
 
 task.spawn(function()
-    while task.wait(35) do serverHop() end
+    while task.wait(45) do serverHop() end
 end)
 
 -- SUCCESS MESSAGE
