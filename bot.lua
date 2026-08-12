@@ -67,15 +67,17 @@ track:Play()
 ------------------------------------------------
 
 local JoinMessages = {
-    "there goes ur game hahahahhah ur so mad /hassle | krone",
-    "RBLX vs krone??? LOL | krone | /hassle",
-    "sucks to see ur game die out like this | krone was here",
-    "hii im alyssa im on stage rn at /hassle",
-    "immune to getting flung /hassle | krone",
-    "LOL get trolled come to /hassle | krone",
-    "come get a whitelist at /hassle | krone",
-    "cam stage at /hassle tn | krone",
-    "join /hassle come get a whitelist | krone",
+    "there goes ur game hahahahhah ur so mad  | Afford",
+    "RBLX vs Afford??? LOL | Afford was here ",
+    "can you guys believe its almost halloween | Afford was here",
+    "What it do Flight Crew? FTC Flight Team stand UP",
+    "Afford was here heheheh :3 | meow", 
+    "me when my name is Afford and bot roblox games",
+    "When you ask for no pickles on your burger but they put pickles",
+    "who wants a whitelist to my MMA Skills | Afford",
+    "Hi I'm Afford? how's your day going",
+    "add the bIue ~ dollhouseRP",
+    "i know yall missed me how yall been loool | Afford",
 
 }
 
@@ -311,4 +313,4 @@ task.spawn(function()
 end)
 
 -- SUCCESS MESSAGE
-Message("Loaded","Merged Auto-Fling + Old Script Loaded!",3)
+Message("Loaded","Auto-Fling LMFAO + Krone Fling V2 Loaded!",3)
