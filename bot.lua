@@ -78,6 +78,9 @@ local JoinMessages = {
     "Hi I'm Afford? how's your day going",
     "add the bIue ~ dollhouseRP",
     "i know yall missed me how yall been loool | Afford",
+    "ur so mad right now omg hahahahha | Afford",
+    "did i make u mad did i did i did i :333 | Afford",
+    "Hold this ragebait peon LOOOL | Afford was here",
 
 }
 
